@@ -1,4 +1,4 @@
-# Project Name:- Cardiovascular-Risk-Prediction-Classification-
+# Project Name:- Cardiovascular Risk Prediction Classification
 
 ## Problem Statement
 
