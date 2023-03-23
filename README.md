@@ -2,14 +2,14 @@
 The dataset is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD)
 
 
-**Data Preprocessing** : 
+## Data Preprocessing: 
 
 1. Importing libraries
 2. Importing datasets
 3. Finding Missing Data
 4. Data Wrangling
 
-**Exploratory data analysis(EDA) :** 
+## Exploratory data analysis(EDA) :
 
 1. Pie Charts of Each Categorical Column or Column with Fixed Number of Values.
 
@@ -32,11 +32,11 @@ The dataset is from an ongoing cardiovascular study on residents of the town of 
 14. Correlation between features
 15. Pairplot
 
-**Hypothesis Testing**
+## Hypothesis Testing
 1. T-Test
 2. Chi-Squre test
 
-**Feature Engineering & Data Pre-processing**
+## Feature Engineering & Data Pre-processing
 
 1. Null value treatment
 2. Outlier treatment
@@ -48,7 +48,7 @@ The dataset is from an ongoing cardiovascular study on residents of the town of 
 
 
 
-**Supervised Machine learning algorithms and implementation :**
+## Supervised Machine learning algorithms and implementation
 
 1. Logistic regression 
 2. Random Forest Classifier
